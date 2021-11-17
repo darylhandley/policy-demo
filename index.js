@@ -1,4 +1,4 @@
-function isWds(string) {
-    return string === "WDS"
+function sayHello(name) {
+    return "Hello " + name + "!"
 }
-module.exports = isWds
+module.exports = sayHello
